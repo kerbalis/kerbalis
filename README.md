@@ -1,6 +1,4 @@
-# inactive rn, will be active* shortly
-*making commits n coding n stuff like that.
-probably will kill astro and start again bcus ive gotten alot  better at coding
+# active, working on astro-v2
 
 
 01001000 01001001 00100000 01001001 00100000 01001000 01000001 01010100 01000101 00100000 01000111 01000001 01011001 
